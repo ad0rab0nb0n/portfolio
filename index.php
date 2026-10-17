@@ -122,6 +122,13 @@ $certificates = [
         'type' => 'DIPLOMA',
         'url' => '',
     ],
+        [
+        'name' => 'Japanese-Language Proficiency Test (JLPT) N3',
+        'provider' => 'Japanese-Language Proficiency Test',
+        'detail' => 'Successfully passed JLPT N3.',
+        'type' => 'LANGUAGE CERTIFICATION · PASSED',
+        'url' => '',
+    ],
 ];
 
 $highlights = [
